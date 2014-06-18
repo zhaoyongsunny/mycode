@@ -1,6 +1,6 @@
 package com.codeboy.leetcode;
 
-import com.codeboy.oj.common.ListNode;
+import com.codeboy.leetcode.common.ListNode;
 
 /***
  * https://oj.leetcode.com/problems/linked-list-cycle-ii/

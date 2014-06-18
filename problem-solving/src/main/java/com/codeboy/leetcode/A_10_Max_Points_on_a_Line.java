@@ -1,6 +1,7 @@
 package com.codeboy.leetcode;
 
-import com.codeboy.oj.common.Point;
+import com.codeboy.leetcode.common.Point;
+
 
 
 

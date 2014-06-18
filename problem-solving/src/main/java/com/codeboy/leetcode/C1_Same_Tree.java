@@ -1,6 +1,7 @@
 package com.codeboy.leetcode;
 
-import com.codeboy.oj.common.TreeNode;
+import com.codeboy.leetcode.common.TreeNode;
+
 
 /***
  * Given two binary trees, write a function to check if they are equal or not.
